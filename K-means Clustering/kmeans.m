@@ -1,6 +1,5 @@
 %kmeans.m
 %Richard Chen
-%Evaline here too
 
 k2 = fopen('k2.dat', 'r');
 k3 = fopen('k3.dat', 'r');

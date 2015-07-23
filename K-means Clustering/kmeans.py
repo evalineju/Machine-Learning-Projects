@@ -1,6 +1,5 @@
 #rchen40.py
 #Richard Chen
-#Evaline was here
 
 from random import randrange
 from math import sqrt
